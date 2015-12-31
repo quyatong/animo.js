@@ -1,7 +1,7 @@
 {
   "name": "amd-animo",
   "main": "animo.js",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "homepage": "https://github.com/ThrivingKings/animo.js",
   "authors": [
     "Daniel Raftery <danielraftery00@gmail.com>"
