@@ -1,4 +1,4 @@
-define(function (require) {
+define(function (require, module, exports) {
     var $ = require('jquery');
     /**
      * animo is a powerful little tool that makes managing CSS animations extremely easy. Stack animations, set callbacks, make magic.
